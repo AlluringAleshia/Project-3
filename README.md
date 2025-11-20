@@ -57,6 +57,8 @@ The following EXTRA features are implemented:
 
 I have chosen to duplicate the following layout from the Netflix app:
 <img width="384" height="282" alt="Screen Shot 2025-11-20 at 6 33 38 PM" src="https://github.com/user-attachments/assets/b491bc94-8b69-4cb4-9152-fa18ac200152" />
+## Codes
+activity_main.xml https://github.com/AlluringAleshia/Project-3/blob/f9df05fde1a1766d6d05a630b73f18efdb9fbeef/activity_main.xml 
 
 
 ## Video Demo
