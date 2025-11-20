@@ -68,7 +68,7 @@ ic_launcher_background.xml https://github.com/AlluringAleshia/Project-3/blob/ef3
 
 ic_launcher_foreground.xml https://github.com/AlluringAleshia/Project-3/blob/93783c797663088bf76e05d85bcfd061e528d47c/ic_launcher_foreground.xml
 
-colors.xml 
+colors.xml https://github.com/AlluringAleshia/Project-3/blob/1431c313d30c4546bb077ed96b3bcf1426dfc203/colors.xml
  
 
 
