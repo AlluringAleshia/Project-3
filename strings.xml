@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">P3 Animal App</string>
+    <string name="whos_watching">Who\'s Watching?</string>
+    <string name="profile_desc_user1">Profile for User 1</string>
+    <string name="profile_name_user1">User 1</string>
+    <string name="add_profile_desc">Add a new profile</string>
+    <string name="add_profile_text">Add Profile</string>
+    <string name="manage_profiles_button">Manage Profiles</string>
+
+</resources>
