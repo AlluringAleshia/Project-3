@@ -70,13 +70,22 @@ ic_launcher_foreground.xml https://github.com/AlluringAleshia/Project-3/blob/937
 
 colors.xml https://github.com/AlluringAleshia/Project-3/blob/1431c313d30c4546bb077ed96b3bcf1426dfc203/colors.xml
  
+## Screenshot 
+
+<img width="1440" height="900" alt="Screen Shot 2025-11-20 at 6 58 02 PM" src="https://github.com/user-attachments/assets/4d68f87a-5296-4751-bd31-e52fabbd604e" />
 
 
 ## Video Demo
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
+
+https://github.com/user-attachments/assets/0385e7fd-e866-4315-9913-f03c013e000b 
+
+
+
+
+
 
 GIF created with **your chosen GIF tool**
 
