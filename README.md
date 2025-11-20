@@ -20,11 +20,11 @@ Make sure to check out the screenshots for examples!
 🎯 Goals
 By the end of this assignment you will be able to...
 
-[X]Create your own Android app Layouts from scratch
+- [X]Create your own Android app Layouts from scratch
 
-[X]Use ConstraintLayout, TextView, and ImageView
+- [X]Use ConstraintLayout, TextView, and ImageView
 
-[X]Adjust View qualities using attributes in XML
+- [X]Adjust View qualities using attributes in XML
 
 
 If I had to describe this project in three (3) emojis, they would be: 🐱📺🤗
@@ -56,8 +56,8 @@ The following EXTRA features are implemented:
 ## Chosen Screenshot
 
 I have chosen to duplicate the following layout from the Netflix app:
+<img width="384" height="282" alt="Screen Shot 2025-11-20 at 6 33 38 PM" src="https://github.com/user-attachments/assets/b491bc94-8b69-4cb4-9152-fa18ac200152" />
 
-<img src='http://example.com/link/to/your/image.png' title='Chosen Screenshot' width='' alt='Chosen Screenshot' />
 
 ## Video Demo
 
