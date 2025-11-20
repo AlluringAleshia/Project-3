@@ -66,7 +66,9 @@ strings.xml https://github.com/AlluringAleshia/Project-3/blob/93a858626717809763
 
 ic_launcher_background.xml https://github.com/AlluringAleshia/Project-3/blob/ef357495babe9b1b744579da053a0c8bdfbabaf3/ic_launcher_background.xml
 
-ic_launcher_foreground.xml 
+ic_launcher_foreground.xml https://github.com/AlluringAleshia/Project-3/blob/93783c797663088bf76e05d85bcfd061e528d47c/ic_launcher_foreground.xml
+
+colors.xml 
  
 
 
