@@ -62,7 +62,10 @@ activity_main.xml https://github.com/AlluringAleshia/Project-3/blob/f9df05fde1a1
 
 MainActivity.kt https://github.com/AlluringAleshia/Project-3/blob/46c53129b4d123e724457efc0bbea6477781c877/MainActivity.kt 
 
-Strings.xml https://github.com/AlluringAleshia/Project-3/blob/93a8586267178097630e92588027b341c24fd47b/strings.xml
+strings.xml https://github.com/AlluringAleshia/Project-3/blob/93a8586267178097630e92588027b341c24fd47b/strings.xml
+
+ic_launcher_background.xml https://github.com/AlluringAleshia/Project-3/blob/ef357495babe9b1b744579da053a0c8bdfbabaf3/ic_launcher_background.xml
+ 
 
 
 ## Video Demo
