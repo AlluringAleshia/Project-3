@@ -79,8 +79,8 @@ colors.xml https://github.com/AlluringAleshia/Project-3/blob/1431c313d30c4546bb0
 
 Here's a video / GIF that demos all of the app's implemented features:
 
+https://submissions.us-east-1.linodeobjects.com/and101/IMVeayIT.gif
 
-https://github.com/user-attachments/assets/0385e7fd-e866-4315-9913-f03c013e000b 
 
 
 
